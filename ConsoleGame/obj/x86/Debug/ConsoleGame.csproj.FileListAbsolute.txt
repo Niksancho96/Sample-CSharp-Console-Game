@@ -1,0 +1,5 @@
+c:\users\нико\documents\visual studio 2010\Projects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+c:\users\нико\documents\visual studio 2010\Projects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+c:\users\нико\documents\visual studio 2010\Projects\ConsoleGame\ConsoleGame\obj\x86\Debug\ConsoleGame.exe
+c:\users\нико\documents\visual studio 2010\Projects\ConsoleGame\ConsoleGame\obj\x86\Debug\ConsoleGame.pdb
+C:\Users\Нико\documents\visual studio 2010\Projects\ConsoleGame\ConsoleGame\obj\x86\Debug\ConsoleGame.csprojResolveAssemblyReference.cache
